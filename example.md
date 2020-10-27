@@ -51,4 +51,9 @@ unordered list
 
 The images should be uploaded to the same directory of the lesson.
 
-![Academeez, Logo](/example.png)
+![Academeez, Logo](https://github.com/ywarezk/academeez-lessons-summary/raw/main/example.png)
+
+## Code
+
+When you have a line of code in a regular line add `backtick`
+

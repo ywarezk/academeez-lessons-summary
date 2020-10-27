@@ -12,3 +12,4 @@ Chapters can also be nested.
 
 lesson should also be in a folder cause there will be additional resources for every lesson.
 
+This docs is inspired by react docs.
