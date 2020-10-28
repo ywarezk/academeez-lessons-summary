@@ -1,7 +1,7 @@
 ---
 id: what-is-react
 title: What is React
-permalink: node/about-node-course/what-is-node
+permalink: react/welcome-to-react-course/what-is-react
 ---
 
 React is a library fo creating User Interface for different frontend apps.
