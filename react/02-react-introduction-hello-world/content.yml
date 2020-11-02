@@ -1,13 +1,13 @@
 slug: react-introduction-hello-world
-title: 'React Introduction - Creating hello world'
+title: "React Introduction - Creating hello world"
 difficulty: Easy
-ids: ['hello-world-html', 'hello-world-javascript']
-img: 'react/01-welcome-to-react-course/react_cover.png'
+ids: ["hello-world-html", "hello-world-javascript"]
+img: "react/01-welcome-to-react-course/react_cover.png"
 description: |
   Creating our first React application.
   By creating a simple app we can go over the fundamentals of React.
 video:
-  url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+  url: "https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8"
   duration: 0
 children:
   hello-world-html:
@@ -15,12 +15,12 @@ children:
     slug: "hello-world-html"
     content: "react/02-react-introduction-hello-world/01-hello-world-html/hello-world-html.md"
     video:
-      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      url: "https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8"
       duration: 100
   hello-world-javascript:
-    title: 'Building Hello World using Javascript'
-    slug: 'hello-world-javascript'
+    title: "Building Hello World using Javascript"
+    slug: "hello-world-javascript"
     content: "react/02-react-introduction-hello-world/02-hello-world-javascript/hello-world-javascript.md"
     video:
-      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      url: "https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8"
       duration: 100

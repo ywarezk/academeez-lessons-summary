@@ -1,14 +1,14 @@
 slug: about-node-course
-title: 'Welcome to Node.js course'
+title: "Welcome to Node.js course"
 difficulty: Easy
-ids: ['what-is-node', 'what-we-will-create', 'why-node']
-img: 'node/01-about-node-course/node_cover.png'
+ids: ["what-is-node", "what-we-will-create", "why-node"]
+img: "node/01-about-node-course/node_cover.png"
 description: |
   What is Node.js ?
   What can we create with Node.js ?
   In this chapter we will talk about the Node.js course, prerequisites, and content.
 video:
-  url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+  url: "https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8"
   duration: 0
 children:
   what-is-node:
@@ -16,19 +16,19 @@ children:
     slug: "what-is-node"
     content: "node/01-about-node-course/01-what-is-node/what-is-node.md"
     video:
-      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      url: "https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8"
       duration: 100
   what-we-will-create:
-    title: 'What can I create after taking this course?'
-    slug: 'what-we-will-create'
+    title: "What can I create after taking this course?"
+    slug: "what-we-will-create"
     content: "node/01-about-node-course/02-what-we-will-create/what-we-will-create.md"
     video:
-      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      url: "https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8"
       duration: 100
   why-node:
     title: "Should I choose Node to create my Backend server?"
-    slug: 'why-node'
+    slug: "why-node"
     content: "node/01-about-node-course/03-why-node/why-node.md"
     video:
-      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      url: "https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8"
       duration: 100
