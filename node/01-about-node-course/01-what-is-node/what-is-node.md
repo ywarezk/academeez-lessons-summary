@@ -1,7 +1,8 @@
 ---
-id: what-is-node
+slug: what-is-node
 title: What is Node.js
 permalink: node/about-node-course/what-is-node
+
 ---
 
 Node.js is a Javascript runtime.

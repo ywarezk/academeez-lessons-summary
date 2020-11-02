@@ -1,0 +1,34 @@
+title: 'Our first Node.js application - Hello World'
+slug: 'our-first-node-app-hello-world'
+difficulty: Easy
+ids: []
+img: 'https://academeez.s3-eu-west-1.amazonaws.com/img/node.svg'
+description: |
+  In this chapter we will create our first Node.js application.
+  A simple app that prints hello world to the screen.
+  During this chapter we will understand how to write node apps, debug them, and how node works.
+video:
+  url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+  duration: 100
+children:
+  installing-node:
+    title: "Installing Node.js"
+    slug: "installing-node"
+    content: "node/02-our-first-node-app-hello-world/01-installing-node/installing-node.md"
+    video:
+      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      duration: 100
+  nvm:
+    title: "NVM - Node Version Manager"
+    slug: nvm
+    content: "node/02-our-first-node-app-hello-world/02-nvm/nvm.md"
+    video:
+      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      duration: 100
+  hello-world:
+    title: "Our first Node.js app - Hello World"
+    slug: "hello-world"
+    content: "node/02-our-first-node-app-hello-world/03-hello-world/hello-world.md"
+    video:
+      url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
+      duration: 100
