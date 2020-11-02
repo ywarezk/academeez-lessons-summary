@@ -1,7 +1,7 @@
 title: 'Our first Node.js application - Hello World'
 slug: 'our-first-node-app-hello-world'
 difficulty: Easy
-ids: []
+ids: ['installing-node', 'nvm', 'hello-world']
 img: 'https://academeez.s3-eu-west-1.amazonaws.com/img/node.svg'
 description: |
   In this chapter we will create our first Node.js application.

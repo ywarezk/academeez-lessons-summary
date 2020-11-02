@@ -1,6 +1,6 @@
 ---
-id: why-react
-title: Why choose React
+id: websites-created-with-react
+title: What kind of websites can we create with React?
 permalink: react/welcome-to-react-course/why-react
 prerequisites: javascript/single-page-application
 ---

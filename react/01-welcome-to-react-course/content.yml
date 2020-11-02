@@ -1,34 +1,34 @@
-slug: about-node-course
-title: 'Welcome to Node.js course'
+slug: welcome-to-react-course
+title: 'Welcome to React course'
 difficulty: Easy
-ids: ['what-is-node', 'what-we-will-create', 'why-node']
-img: 'node/01-about-node-course/node_cover.png'
+ids: ['what-is-react', 'why-choose-react', 'websites-created-with-react']
+img: 'react/01-welcome-to-react-course/react_cover.png'
 description: |
-  What is Node.js ?
-  What can we create with Node.js ?
-  In this chapter we will talk about the Node.js course, prerequisites, and content.
+  What is React?
+  Why should we learn React?
+  What can we create after this course?
 video:
   url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
   duration: 0
 children:
-  what-is-node:
-    title: "Welcome to Node.js course"
-    slug: "what-is-node"
-    content: "node/01-about-node-course/01-what-is-node/what-is-node.md"
+  what-is-react:
+    title: "What is React"
+    slug: "what-is-react"
+    content: "react/01-welcome-to-react-course/01-what-is-react/what-is-react.md"
     video:
       url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
       duration: 100
-  what-we-will-create:
-    title: 'What can I create after taking this course?'
-    slug: 'what-we-will-create'
-    content: "node/01-about-node-course/02-what-we-will-create/what-we-will-create.md"
+  why-choose-react:
+    title: 'Why choose React'
+    slug: 'why-react'
+    content: "react/01-welcome-to-react-course/02-why-choose-react/why-choose-react.md"
     video:
       url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
       duration: 100
-  why-node:
-    title: "Should I choose Node to create my Backend server?"
-    slug: 'why-node'
-    content: "node/01-about-node-course/03-why-node/why-node.md"
+  websites-created-with-react:
+    title: "What kind of websites can we create with React?"
+    slug: 'websites-created-with-react'
+    content: "react/01-welcome-to-react-course/03-websites-created-with-react/websites-created-with-react.md"
     video:
       url: 'https://c563a7c556a91cdae32025bd25037548.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c981d287b93543028c69b53d164248a3/9066c336968343c59ae6119f795c7d7c/9a1daa110f12415ebc81ad4bb65d7e95/index.m3u8'
       duration: 100
