@@ -2,6 +2,7 @@
 slug: what-is-promise
 title: What is Promise
 permalink: javascript/async-programming/promise/what-is-promise
+prerequisites: javascript/async-programming/classifying-async-code
 ---
 
 Promise is a class, that gives us persistent API for dealing with async code that resolves once.
