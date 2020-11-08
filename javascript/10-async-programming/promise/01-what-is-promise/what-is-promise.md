@@ -12,5 +12,3 @@ You create an instance of the Promise class and pass in the constructor your asy
 You can then attach listeners to the Promise instance that will be called when the async code is resolved.
 
 ## What kind of async code does promise help us with
-
-## Promise states
