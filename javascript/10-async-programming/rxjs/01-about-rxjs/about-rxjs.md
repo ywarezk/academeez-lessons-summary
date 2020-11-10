@@ -11,9 +11,13 @@ Pushed values are usually used in async programming.
 
 In this chapter we will learn to use RXJS for handling pushed values.
 
-## What is Pushed value
-
 ## What RXJS is usually used for
 
 Usually used for dealing with async code.
+
+## RXJS - Stage 1
+
+At the time of writing RXJS api will be part of Javascript and is currently marked as stage 1.
+
+## What kind of async code can RXJS helps us deal with
 
